@@ -25,13 +25,13 @@ Add me to your group and play music freely!**
                         "Group", url="https://t.me/animegrupindo"
                     ),
                     InlineKeyboardButton(
-                        "Channel", url="https://t.me/animechanelindo)
+                        "Channel", url="https://t.me/animechanelindo")
                 ],[ 
                    InlineKeyboardButton(
                         "Bantuan", url="https://t.me/IhsanBio/62"
                     ),
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/AnimeSongRobot?startgroup=true"
                     )]
             ]
         ),
