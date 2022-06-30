@@ -1,5 +1,7 @@
+import os
+import asyncio
+from bot import bot
 from pyrogram import Client as Bot
-
 from callsmusic import run
 from config import API_ID, API_HASH, BOT_TOKEN
 
