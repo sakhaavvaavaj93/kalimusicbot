@@ -17,7 +17,7 @@ else:
     for f in os.listdir("./downloads"):
         os.remove(f"./downloads/{f}")
 async def main():
-await bot.start()
+    await bot.start()
 run()
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
