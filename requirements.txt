@@ -9,3 +9,6 @@ aiohttp
 asyncio
 youtube_search
 yt-dlp
+wrapt_timeout_decorator
+git+https://github.com/ophexor/yt-dl@master
+git+https://github.com/mrabhix/pyrogram-bot.git
